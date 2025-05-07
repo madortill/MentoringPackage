@@ -87,7 +87,7 @@ window.location.href = "https://madortill.github.io/preparationAndBriefing/";
 break;
 }
 case 'btn2':  {
-  window.location.href = "https://madortill.github.io/lomdatIbud/";
+  window.location.href = "https://madortill.github.io/lomdatIbud/";  
 break;
 }
 case 'btn3':  {
