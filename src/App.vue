@@ -11,8 +11,12 @@
     </div>
     <Transition>
       <div v-show="showAbout" class="div-about">
-        <h3 class="list-text-about">מפתחת לומדה:</h3>
+        <h3 class="list-text-about">מפתחות לומדה:</h3>
         <p class="list-text-about">רב"ט דני שריקי</p>
+        <p class="list-text-about">רב"ט גילי גורדון</p>
+        <p class="list-text-about">סמל אדוה אבא</p>
+        <p class="list-text-about">סמל דורון הרפז</p>
+        <p class="list-text-about">טוראי גילי נחום</p>
         <h3 class="list-text-about">רמ"ד טי"ל:</h3>
         <p class="list-text-about">רס"מ עדן בן חמו</p>
         <h3 class="list-text-about">גרסה:</h3>
