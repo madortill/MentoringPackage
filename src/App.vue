@@ -216,7 +216,7 @@ width: 20rem;
 .div-about {
   position: absolute;
   width: 11rem;
-  height: 24rem;
+  height: 27rem;
   left: 8rem;
   top: 7rem;
   background: #fff;
